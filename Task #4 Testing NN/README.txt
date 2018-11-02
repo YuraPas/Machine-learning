@@ -1,0 +1,1 @@
+Play arround with neural network , adjust learning rate
